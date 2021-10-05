@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acssantos
 - 👀 I’m a researcher in machine learning
-- 🌱 I’m currently working on aplying AI to reservoir upscaling
+- 🌱 I’m currently working on aplying AI in the oil industry for reservoir upscaling
 - 📫 How to reach me: anderson.santos@ic.unicamp.br
 
 <!---
